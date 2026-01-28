@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 An aspiring fullstack and backend enginner! I'm currently working on a budget tracking program!
 
 
